@@ -13,6 +13,7 @@ The python script can be executed in any code editor with custom input to predic
 
 -------------------------------------------------------------------------------------------------
 Core Azure services used :
+
 1.Machine Learning
 2.Key vault
 3.Application Insights
